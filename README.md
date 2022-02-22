@@ -50,3 +50,8 @@ It is also useful in storing the user’s sessions
 ## path.join(__dirname, 'public')
 
 __dirname is an environment variable that tells you the absolute path of the directory containing the currently executing file.
+
+
+### Day 2
+
+I created router for users data and login 
